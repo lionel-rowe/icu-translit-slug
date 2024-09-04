@@ -1,0 +1,25 @@
+{
+	"lock": false,
+	"exports": {},
+	"tasks": {},
+	"imports": {},
+	"fmt": {
+		"semiColons": false,
+		"useTabs": true,
+		"lineWidth": 120,
+		"indentWidth": 4,
+		"singleQuote": true,
+		"proseWrap": "preserve",
+		"exclude": ["icu"]
+	},
+	"compilerOptions": { "strict": true },
+	"lint": {
+		"exclude": [],
+		"rules": {
+			"tags": ["recommended"],
+			"exclude": [],
+			"include": []
+		}
+	},
+	"exclude": []
+}
